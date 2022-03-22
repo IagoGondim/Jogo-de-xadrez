@@ -75,6 +75,14 @@ public class UI {
 			System.out.println();
 		}
 		System.out.println("  a b c d e f g h");
+		System.out.println();
+		System.out.println("K = King");
+		System.out.println("R = Rook");
+		System.out.println("P = Pawn");
+		System.out.println("B = Bishop");
+		System.out.println("Q = Queen");
+		System.out.println("H = Horse");
+		
 	}
 
 	public static void printBoard(ChessPiece[][] pieces, boolean[][] possibleMoves) {
@@ -86,6 +94,7 @@ public class UI {
 			System.out.println();
 		}
 		System.out.println("  a b c d e f g h");
+		
 	}
 
 	private static void printPiece(ChessPiece piece, boolean background) {
