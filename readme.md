@@ -32,12 +32,12 @@ $ java -jar chess-system.jar
 
 ## **Jogabilidade**
 
-### Movimento inicial do jogo de xadrez, mostrando o ponto de origem (origem) e o destino final (target)
+### Movimento inicial do jogo de xadrez, mostrando o ponto de origem (source) e o destino final (target)
 ---
 
 ![](img/inicio.gif)
 
-### Movimento piecePromotion, peão chega no final do tabuleiro e pode escolher qualquer peça, sendo escolhido a Queen
+### Movimento piecePromotion, peão chega no final do tabuleiro e pode escolher qualquer peça, nesse caso sendo escolhido a Queen
 ---
 ![](img/promotion-piece.gif)
 
@@ -46,15 +46,14 @@ $ java -jar chess-system.jar
 
 ![](img/xeque-mate.gif)
 
-
-
 ## **Tecnologias utilizadas**
 ---
-### As seguintes tecnologias utilizadas na construção da API:
+### As seguintes tecnologias utilizadas na construção do sistema de jogo de xadrez:
 
 
-- [Java] (https://www.java.com/pt-BR/)
-- [Spring Boot] (https://spring.io/)
+- [Java](https://www.java.com/pt-BR/)
+- [Spring-Boot](https://spring.io/)
+- [Visual-Studio-Code](https://code.visualstudio.com/)
 
 <h4 align="center"> 
 	🚧  🚀 Em construção...  🚧
