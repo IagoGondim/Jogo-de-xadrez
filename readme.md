@@ -16,7 +16,7 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 
 - [Git](https://github.com/)
 - [Java](https://www.java.com/pt-BR/)
-- [Spring Boot Tools](https://spring.io/tools) (caso queira rodar com Spring Boot)
+- [Spring Tools Suite](https://spring.io/tools) (caso queira rodar com Spring Boot)
 
 ```bash
 
@@ -52,8 +52,8 @@ $ java -jar chess-system.jar
 
 
 - [Java](https://www.java.com/pt-BR/)
-- [Spring-Boot](https://spring.io/)
-- [Visual-Studio-Code](https://code.visualstudio.com/)
+- [Spring Tools Suite](https://spring.io/)
+- [Visual Studio Code](https://code.visualstudio.com/)
 
 <h4 align="center"> 
 	🚧  🚀 Em construção...  🚧
